@@ -1,0 +1,6 @@
+{
+  "name": "FitFusion",
+  "description": "FitFusion is a simple fitness recommendation system with workout and diet plans, a BMI calculator, and Supabase database integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
